@@ -1,6 +1,8 @@
-### Welcome 👋
+<p align='center'> ### Welcome 👋 </p>
 
 ### Github Stats
+
+### Reach me 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyanah-aco&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
