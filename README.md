@@ -1,5 +1,7 @@
 <h2><p align='center'>Welcome to my page! 👋</p></h2>
 
+Hi! I'm Elyanah from the Philippines. 
+
 ### About me
 - 💼 Currently working as a data analyst for a Singaporean hedge fund
 - 🌱 Currently learning Selenium, RShiny and HTML/CSS
