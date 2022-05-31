@@ -2,7 +2,8 @@
 
 ### About me
 - 💼 Currently working as a data analyst for a Singaporean hedge fund
-- 🌱 Currently learning RShiny and HTML/CSS
+- 🌱 Currently learning Selenium, RShiny and HTML/CSS
+- 🌎 Dabbles in AI for Good from time to time
 - 🎓 Graduated as an applied math major and economics minor (ADMU 2022)
 - 🎮 Plays video games and creates digital art in my free time 
 
