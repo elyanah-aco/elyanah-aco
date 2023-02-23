@@ -1,39 +1,22 @@
-<h2><p align='center'>Welcome to my page! 👋</p></h2>
+<h1 align="center">Hi 👋, I'm Elyanah</h1>
+<h3 align="center">Financial data analysis and science with some art on the side!</h3>
 
-Hi! I'm Elyanah from the Philippines. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanah-aco&label=Profile%20views&color=0e75b6&style=flat" alt="elyanah-aco" /> </p>
 
-### About me
-- 💼 Currently working as a data analyst for a Singaporean hedge fund
-- 🌱 Currently learning Selenium, RShiny and Dash
-- 🌎 Dabbles in AI for Good from time to time
-- 🎓 Graduated as an applied math major and economics minor (ADMU 2022)
-- 🎮 Plays video games and creates digital art in my free time 
+- 🌱 I’m currently learning: **C#, Solidity**
 
-### Tech stack
-| **Languages** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)|
-| ------------- | ------------- |
-| **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)|
+- 📫 Reach me here: **aco.elyanah@gmail.com**
 
-### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyanah-aco&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+- 📄 Know about my experiences here: [https://tinyurl.com/AcoElyanahResume](https://tinyurl.com/AcoElyanahResume)
 
+- ⚡ Fun fact about me: **I also do art on the side!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/acocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acocodes" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-
-<!--
-**elyanah-aco/elyanah-aco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyanah-aco&show_icons=true&locale=en" alt="elyanah-aco" /></p>
