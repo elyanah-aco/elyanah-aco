@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elyanah</h1>
-<h3 align="center">Financial data analysis and science with some art on the side!</h3>
+<h1 align="center">Hi, I'm Elyanah! 👋</h1>
+<h3 align="center">I do some financial data analysis and data science, with some art on the side!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyanah-aco&label=Profile%20views&color=0e75b6&style=flat" alt="elyanah-aco" /> </p>
 
